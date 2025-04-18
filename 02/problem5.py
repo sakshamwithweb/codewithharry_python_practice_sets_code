@@ -1,3 +1,5 @@
+# Write a python program to find an average of two numbers entered by the user.
+
 # Getting inputs from user and converting to integer
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))

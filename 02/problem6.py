@@ -1,3 +1,5 @@
+# Write a python program to calculate the square of a number entered by the user.
+
 # Getting input from user and convert to integer
 num1 = int(input("Enter number(1st method): "))
 
